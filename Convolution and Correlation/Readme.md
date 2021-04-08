@@ -20,6 +20,8 @@ between signals indicates the measure up to which the given signal resembles ano
 In other words, if we want to know how much similarity exists between the signals 1 and 2, 
 then we need to find out the correlation of Signal 1 with respect to Signal 2 or vice versa.
 
+## [Matlab code](https://github.com/Yuvraj-kadale/DSP_LAB_ECD329/blob/main/Convolution%20and%20Correlation/Convolution_Correlation.m)
+
 ## Output
 
 Signal After convolution is  
