@@ -13,3 +13,7 @@ The ramp function is a unary real function, whose graph is shaped like a ramp. I
 
 
 ## Output:
+
+![image](https://user-images.githubusercontent.com/43489758/113972335-13b36500-9858-11eb-89c5-4549c8802a01.png)
+![image](https://user-images.githubusercontent.com/43489758/113972352-18781900-9858-11eb-8630-8e503e08363b.png)
+![image](https://user-images.githubusercontent.com/43489758/113972357-1c0ba000-9858-11eb-93cd-ebdf369fa69e.png)
