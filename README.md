@@ -1,2 +1,3 @@
-# DSP_LAB_ECD329
+# Digital Signal Processing Lab
+
 Collection of Matlab programs for Digital Signal Processing lab
